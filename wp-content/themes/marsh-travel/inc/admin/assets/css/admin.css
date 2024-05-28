@@ -1,0 +1,77 @@
+/**
+ * Admin Dashboard style for the theme.
+ *
+ * @package Marsh Travel
+ 
+ */
+#marsh-travel-welcome-notice {
+  position: relative;
+}
+
+.marsh-travel-welcome-title-wrapper {
+  padding: 10px 0 5px;
+}
+
+.marsh-travel-welcome-title-wrapper .notice-title {
+  margin-bottom: 0;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.welcome-notice-details-wrapper {
+  margin-left: -3%;
+  padding: 0 20px 20px;
+}
+
+.welcome-notice-details-wrapper .notice-detail-wrap {
+  display: inline-block;
+  width: 34.33%;
+  margin-left: 1%;
+  margin-right: -4px;
+  vertical-align: top;
+}
+
+.welcome-notice-details-wrapper .notice-detail-wrap.image {
+  width: 20%;
+}
+
+.notice-detail-wrap.image img {
+  width: 100%;
+}
+
+.notice-detail-wrap .dashicons {
+  margin-right: 5px;
+}
+
+.notice-detail-wrap .wrap-content {
+  color: #505050;
+  line-height: 1.8;
+}
+
+.notice-detail-wrap .wrap-content {
+  color: #505050;
+  line-height: 1.8;
+  font-size: 14px;
+}
+
+.notice-detail-wrap .wrap-title {
+  margin-bottom: 10px;
+}
+
+.demo-wrap {
+  margin-bottom: 30px;
+}
+
+.welcome-notice-details-wrapper .notice-detail-wrap.image figure {
+  margin: 0;
+}
+
+.marsh-travel-get-started.button.button-primary.button-hero {
+  margin-right: 20px;
+  margin-bottom: 15px;
+}
+
+.marsh-travel-get-started.updating-message::before,
+.general-info-links .updating-message::before {
+  margin: 11px 5px 0 -2px;
+}
